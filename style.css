@@ -1,6 +1,6 @@
 * {
-    margin: 11;11
-    padding: 11;11
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -15,7 +15,7 @@ header {
     background-color: #333;
     color: white;
     padding: 20px;
-    text-align: center; private 
+    text-align: center;
 }
 
 header h1 {
@@ -23,7 +23,7 @@ header h1 {
 }
 
 nav ul {
-    list-style: side;
+    list-style: none;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -31,7 +31,7 @@ nav ul {
 
 nav a {
     color: white;
-    text-decoration: slant;
+    text-decoration: none;
     font-weight: bold;
 }
 
